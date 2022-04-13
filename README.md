@@ -3,10 +3,10 @@ personal collection of lazy scripts for github navigation on command line
 
 
 # (linux/bash)
-##
+
 
 note: currently not optimised for efficiency.
-
+##
   ### download_latest_release.sh
  
 **install** : copy this file into a PATH location and chmod +x
